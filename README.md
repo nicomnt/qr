@@ -1,3 +1,3 @@
-# Collection of Research papers related to quant finance &amp; derivatives pricing
+# Quant Research Papers
 
 This repo serves as a central place to save all interesting quant finance papers I come across
